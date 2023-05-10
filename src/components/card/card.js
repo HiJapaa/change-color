@@ -6,4 +6,8 @@ const Card = ({text, color}) => {
     )
 }
 
+Card.defaultProps = {
+    color: 'coral'
+}
+
 export default Card
