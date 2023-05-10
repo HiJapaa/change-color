@@ -1,0 +1,11 @@
+.text {
+    display: flex;
+    align-items: center;
+    max-width: max-content;
+    height: 35px;
+    padding: 15px 20px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 1px solid hsla(220, 15%, 80%, .2);
+    box-shadow: 5px 10px 3px lightgray;
+}

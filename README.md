@@ -2,5 +2,5 @@
 
 ## Para clonagem, utilize o seguinte comando:
     ```
-    git clone 
+    git clone https://github.com/HiJapaa/change-color.git
     ```
