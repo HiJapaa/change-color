@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Card text='Primeiro Card - texto vermelho' color='#ff0000'/>
-      <Card text='Segundo Card - texto verde' color='green'/>
+      <Card color='green'/>
       <Card text='Terceiro Card - sem cor passada' />
       <Button/>
       <Button label='Copiar texto'/>

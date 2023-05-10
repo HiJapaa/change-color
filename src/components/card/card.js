@@ -7,7 +7,8 @@ const Card = ({text, color}) => {
 }
 
 Card.defaultProps = {
-    color: 'coral'
+    color: 'coral',
+    text: 'Não foi passado texto como props'
 }
 
 export default Card
